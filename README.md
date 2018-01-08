@@ -1,1 +1,1 @@
-"# GameCrosshair" 
+# GameCrosshair
